@@ -2,7 +2,7 @@ import {
   Hero,
   Service,
   SpecialOffer,
-  footer,
+  Footer,
   Subcribe,
   SuperOffer,
   PopularProduct,
@@ -35,7 +35,7 @@ const App = () => (
       <Subcribe />
     </section>
     <section className="padding-x bg-black padding-x padding-t pb-8">
-      <footer />
+      <Footer />
     </section>
   </main>
 );
